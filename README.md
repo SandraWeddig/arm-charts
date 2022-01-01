@@ -1,6 +1,6 @@
 # ARMv7 Compatible Helm Charts
 
-This repository contains Helm charts that are compatible for ARMv7 devices, such as the Raspberry Pi 2/3.
+This repository contains Helm charts that are compatible for ARMv7 devices, such as the Raspberry Pi 3/4.
 
 ## Kubernetes Helm
 [Kubernetes Helm](https://github.com/kubernetes/helm) is a package manager for deploying software on a Kubernetes cluster.
